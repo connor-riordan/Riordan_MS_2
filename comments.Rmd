@@ -1,0 +1,20 @@
+---
+title: "project_comments"
+author: "Connor Riordan"
+date: "2/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, project #1}
+# Dominic Skinnion's final project, "Whom does the Electoral College Benefit?" poses and seemingly answers a question that has been at the forefront of election politics for the past few years. I think that is one of the first pros of this project - it focuses on an issue that is pertinent to today's politics, and thus is immediately investing. Another pro of this project is how he used ggplot to effectively create distinct and attractive graphs for each step of his process. I am especially impressed by the graph in four quadrants. Another pro of this graph is the fact that it clearly explains the intricacies of the electoral college without having to spell it out for us - Dominic presents data on a lot of different aspects of the electoral college, and the way he presents it is clear and explanatory. A con I would mention is that he sometimes offers political commentary on the results, which is less objective and more personal opinion. Another con that I can think of is that I sometimes had trouble decidng what conclusion he actually came to at the end.
+
+```
+
+```{r, project #2}
+# The first pro I need to mention for Jeremy Ornstein's final project, "Impact of the American Creative Class," is the uniquenesss of the topic. The impact of the creative class (as Jeremy defines it) is severely undervalued in America, and I think it's great Jeremy was able to find such an immense amount of data for this project. I think the inclusion of the map was a great illustrator of where exactly the members of this class concentrate, which supports all the data he has in his graphs and tables. speaking of his graphs and tables, they all perform very complicated processes and each constitute a very impressive achievement on Jeremy's part. It was great that he gave us a way to compare many separate variables without having to go through an entire process for it. there aren't many cons, but one thing I would point out is the fact that it is incredibly hard to exactly define what constitutes creativity; there could be other jobs that Jeremy is not including that many other people would, and perhaps he is including some jobs that many other people wouldn't consider creative. I also appreciated the broader issues he brings up in the about section of the project, but it would have been nice to see him connect the two issues more. However, that is a whole lot of work, and I am sure the project already took him an enormous amout of time.
+
+```
